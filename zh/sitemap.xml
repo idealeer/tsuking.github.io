@@ -6,12 +6,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tsuking.net/admin/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tsuking.net/zh/admin/"
                 />
   </url><url>
@@ -19,12 +19,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tsuking.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tsuking.net/zh/categories/"
                 />
   </url><url>
@@ -32,12 +32,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tsuking.net/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tsuking.net/zh/publication_types/"
                 />
   </url><url>
@@ -45,12 +45,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tsuking.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tsuking.net/zh/tags/"
                 />
   </url><url>
@@ -58,12 +58,12 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-us"
                 href="https://tsuking.net/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-Hans"
                 href="https://tsuking.net/zh/"
                 />
   </url>
